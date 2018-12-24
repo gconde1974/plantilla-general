@@ -1,0 +1,22 @@
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// $fa-font-path:"../webfonts";
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import '~@fortawesome/fontawesome-free/scss/fontawesome.scss';
+@import '~@fortawesome/fontawesome-free/scss/solid.scss';
+@import '~@fortawesome/fontawesome-free/scss/brands.scss';
+@import '~@fortawesome/fontawesome-free/scss/regular.scss';
+
+//++++ de esta seccion en adelante es estilos editados
+
+body {background: rgb(179, 179, 179)}
+#header {background: url(https://previews.123rf.com/images/sergeypykhonin/sergeypykhonin1807/sergeypykhonin180700041/104626009-sea-beach-and-sun-loungers-seascape-vacation-banner-cartoon-vector-illustration.jpg) center center;}
+// se puede usar este otro fondo como prueba https://i.pinimg.com/originals/3b/fd/13/3bfd131d661215be9eb16819c8e8b34d.jpg
+
